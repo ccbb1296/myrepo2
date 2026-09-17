@@ -1,0 +1,29 @@
+.cont{
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.start h1 {
+    
+    font-size: 32px;
+    
+}
+.hobby{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+    line-height: 1.8;
+    font-size: 16px;
+}
+.footer{
+    font-size: 18px;
+}
+
